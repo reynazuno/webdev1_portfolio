@@ -1,0 +1,21 @@
+header {
+  text-align: center;
+  padding: 32px;
+}
+
+h1 {
+  color: purple;
+  font-size: 5vmax;
+  
+}
+h4{
+  text-align: center;
+  font-family: Lucida Console;
+  margin: auto;
+  font-size: 2vmin;
+  width: fit-content;
+}
+
+body {
+  background-color:lightblue;
+}

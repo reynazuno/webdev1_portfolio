@@ -1,0 +1,25 @@
+header {
+  text-align: center;
+  padding: 32px;
+}
+
+p{
+  text-align: center;
+}
+
+a:link {
+  color: blue;
+}
+
+
+a:visited {
+  color: pink;
+}
+
+
+a:hover {
+  color: green;
+}
+
+a:active {
+  color: gold;

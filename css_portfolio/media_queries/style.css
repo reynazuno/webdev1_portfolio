@@ -1,0 +1,33 @@
+header {
+  text-align: center;
+  padding: 32px;
+}
+
+h1 {
+  color: purple;
+  font-size: 3vw;
+}
+h4{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+
+body {
+  background-color:lightblue;
+}
+
+/* On screens that are 992px or less */
+@media screen and (max-width: 992px) {
+  body {
+    background-color: blue;
+  }
+}
+
+/* On screens that are 600px or less */
+@media screen and (max-width: 600px) {
+  body {
+    background-color: green;
+  }
+}

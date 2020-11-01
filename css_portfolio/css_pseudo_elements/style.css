@@ -1,0 +1,9 @@
+header {
+  text-align: center;
+  padding: 32px;
+}
+
+p::first-line {
+  color:red;
+  font-variant: small-caps;
+}

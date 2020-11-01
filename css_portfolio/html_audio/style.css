@@ -1,0 +1,17 @@
+header {
+  text-align: center;
+  padding: 32px;
+}
+
+h1 {
+  color: purple;
+
+}
+
+body {
+  background-color:lightblue;
+}
+.center {
+  margin: 0 auto; 
+  width: 300px;
+}

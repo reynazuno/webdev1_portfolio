@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+header {
+  text-align: center;
+  padding: 32px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+
+.column {
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+  position: relative;
+  text-align: center;
+}
+
+.column img {
+  position: relative;
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+.text{
+  width: 500px;
+  height: 500px;
+  position: relative;
+  margin-top: -50%;
+}
+
+.text h3{
+  text-align: center;
+  color: white;
+  font-size: medium;
+}
+
+
