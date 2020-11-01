@@ -1,0 +1,44 @@
+* {
+    margin: 6;
+    padding: 6;
+  }
+   h1 {
+    background: purple;
+     font-size: 15vh;
+  } 
+  
+  h2 {
+    color: white;
+    font-size: 2vw;
+  }
+  h2 {
+    background: black;
+  }
+  h6{
+    background: yellow;
+    
+  }
+  h5{
+    background: orange;
+  }
+  
+  
+  .note{
+    font-size: 80%;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
